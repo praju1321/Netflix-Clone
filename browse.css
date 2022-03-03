@@ -17,7 +17,7 @@
     line-height: 1.4;
   }
 
-  .video{
+  #video{
     position: absolute;
     z-index: 100;
     width: 70%;
